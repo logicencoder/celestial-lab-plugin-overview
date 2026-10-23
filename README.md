@@ -1,5 +1,7 @@
 # Celestial Lab
 
+![Celestial Lab space overview](assets/overview-2026-10-24.png)
+
 Exploring space often means moving between separate trackers, catalogues and visualisations. Celestial Lab brings seven related space experiences into one navigable application, letting users move from satellites and launches to the Sun, asteroids and distant planets without losing a familiar workspace.
 
 ## Tech stack
