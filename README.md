@@ -6,6 +6,9 @@ Space information is spread across orbital catalogues, solar observations, missi
 
 Open [Celestial Lab](https://logicencoder.com/celestial-lab/).
 
+
+The seven subject areas can be explored independently or used as starting points for a wider question. Source labels and the distinction between observations, catalogues, forecasts and models remain important as the reader moves between them.
+
 ## Tech stack
 
 | Layer | Technologies |
