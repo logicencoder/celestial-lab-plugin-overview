@@ -142,3 +142,5 @@ Publications depend on external sources and may be delayed or unavailable. Celes
 Private implementation: [celestial-lab-plugin](https://github.com/logicencoder/celestial-lab-plugin). Related repositories: [REPOS.md](REPOS.md).
 
 **[Logic Encoder](https://logicencoder.com)** · [GitHub](https://github.com/logicencoder) · [Contact](https://logicencoder.com/contact/)
+
+<!-- TODO(screenshots, 2026-11-07): optional: a more vivid featured image from the operator (portfolio currently uses celestial-lab-weather-aurora.png) -->
