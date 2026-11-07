@@ -1,6 +1,6 @@
 # Celestial Lab
 
-![Celestial Lab space overview](assets/current-2026-10-26/celestial-lab-space-overview.png)
+![Celestial Lab satellite map with a 3D globe of orbiting objects](assets/celestial-lab-satellite-map-3d-globe-orbits.png)
 
 Space information is spread across orbital catalogues, solar observations, mission schedules and astronomy archives. Celestial Lab brings seven related experiences into one workspace: start with a source-aware summary, then inspect the objects, observations or events behind it without switching applications.
 
@@ -20,6 +20,8 @@ The seven subject areas can be explored independently or used as starting points
 ## A source-aware space overview
 
 The opening board brings satellites, space weather, solar activity, provider-reported crew, exoplanets, asteroid encounters and launches together. Each area keeps its own publication time, so a recently retrieved weather feed does not make an older catalogue look newly observed. Direct links open the relevant detail, including the next encounter and launch window. There is no invented combined health score hiding those differences.
+
+![Celestial Lab space overview](assets/current-2026-10-26/celestial-lab-space-overview.png)
 
 ## Satellites: from orbital context to an object
 
@@ -143,4 +145,3 @@ Private implementation: [celestial-lab-plugin](https://github.com/logicencoder/c
 
 **[Logic Encoder](https://logicencoder.com)** · [GitHub](https://github.com/logicencoder) · [Contact](https://logicencoder.com/contact/)
 
-<!-- TODO(screenshots, 2026-11-07): optional: a more vivid featured image from the operator (portfolio currently uses celestial-lab-weather-aurora.png) -->
